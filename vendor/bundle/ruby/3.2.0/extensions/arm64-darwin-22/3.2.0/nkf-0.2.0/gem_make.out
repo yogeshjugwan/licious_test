@@ -1,0 +1,20 @@
+current directory: /Users/rajanshrivastava/Documents/githubYoges/licioustest/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/rajanshrivastava/Documents/githubYoges/licioustest/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240316-25052-j4xbzb sitelibdir\=./.gem.20240316-25052-j4xbzb clean
+
+current directory: /Users/rajanshrivastava/Documents/githubYoges/licioustest/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240316-25052-j4xbzb sitelibdir\=./.gem.20240316-25052-j4xbzb
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/rajanshrivastava/Documents/githubYoges/licioustest/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240316-25052-j4xbzb sitelibdir\=./.gem.20240316-25052-j4xbzb install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240316-25052-j4xbzb
+
+current directory: /Users/rajanshrivastava/Documents/githubYoges/licioustest/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240316-25052-j4xbzb sitelibdir\=./.gem.20240316-25052-j4xbzb clean
