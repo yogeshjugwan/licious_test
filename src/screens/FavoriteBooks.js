@@ -82,7 +82,7 @@ const FavoriteBooks = () => {
         <Header_2
           leftText={"Favorite Books"}
         />
-        <View style={{ justifyContent: "center", alignItems: 'center', marginTop: widthToDp(3) }}>
+        {/* <View style={{ justifyContent: "center", alignItems: 'center', marginTop: widthToDp(3) }}>
           <CustomInput
             commonWidth={widthToDp(80)}
             commonHeight={widthToDp(15)}
@@ -90,7 +90,7 @@ const FavoriteBooks = () => {
             onChangeText={(text) => handleSearch(text)}
             inputRef={inputRef}
           />
-        </View>
+        </View> */}
         {/* <View> */}
         {booksData?.favoriteBooks.length > 0 ?
           <FlatList
